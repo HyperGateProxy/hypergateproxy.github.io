@@ -1,8 +1,9 @@
 theme: jekyll-theme-minimal
 
 title: HyperGate
-subtitle: "A fast, stable, secured proxy software"
+description: "A fast, stable, secured proxy software"
 url: "https://www.hypergate.io" # the base hostname & protocol for your site
 baseurl: "/"
+show_downloads: true
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
