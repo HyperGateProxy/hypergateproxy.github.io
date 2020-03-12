@@ -21,7 +21,7 @@ second, change your network proxy type to socks, enter the address and port of h
 ![image](assets/socks.jpg)
 
 ### PAC mode
-HyperGate has a default light weight web server launched when client starts. Click PAC->PAC Address, Get current pac address and configurate this address to your system network proxy settings, Proxy type is PAC Mode. and the start the sevice.
+HyperGate has a default light weight web server launched when client starts. Click PAC->PAC Address, Get current pac address and configurate this address to your system network proxy settings, Proxy type is PAC Mode. and then start the sevice.
 
 you can edit the pac list and then just reconfigure the system proxy setting to take effect.
 ![image](assets/pac.jpg)
