@@ -7,3 +7,7 @@ baseurl: "/"
 show_downloads: true
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
+
+github.zip_url: https://github.com/HyperGateProxy/HyperGate-MacOS/releases/download/v1.2/HyperGate-MacOS.zip 
+
+
