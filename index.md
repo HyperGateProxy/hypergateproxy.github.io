@@ -18,11 +18,13 @@ Run the client ,open cofiguration window, click the secured domain or ip list bu
 ![image](assets/config.jpg)
 
 second, change your network proxy type to socks, enter the address and port of hypergate client listening(default is 127.0.0.1:1080), done.
+![image](assets/socks.jpg)
 
 ### PAC mode
 HyperGate has a default light weight web server launched when client starts. Click PAC->PAC Address, Get current pac address and configurate this address to your system network proxy settings, Proxy type is PAC Mode. and the start the sevice.
 
 you can edit the pac list and then just reconfigure the system proxy setting to take effect.
+![image](pac.jpg)
 
 ## Support & Contact
 
